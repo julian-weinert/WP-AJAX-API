@@ -3,5 +3,6 @@
 
 ##Tasks
 ```
+- [ ] Creating WP Plugin
 - [ ] Finding better solution for next / previous post
 ```
